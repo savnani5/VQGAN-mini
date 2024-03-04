@@ -3,7 +3,6 @@ Vector Quantized Generative Adversarial Networks (VQGAN) is a generative model f
 
 ## Results for First Stage (Reconstruction):
 
-
 ### 1. Epoch:
 
 <img src="https://user-images.githubusercontent.com/61938694/154057590-3f457a92-42dd-4912-bb1e-9278a6ae99cc.jpg" width="500">
